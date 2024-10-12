@@ -1,0 +1,2 @@
+(()=>{var e={n:r=>{var a=r&&r.__esModule?()=>r.default:()=>r;return e.d(a,{a}),a},d:(r,a)=>{for(var o in a)e.o(a,o)&&!e.o(r,o)&&Object.defineProperty(r,o,{enumerable:!0,get:a[o]})},o:(e,r)=>Object.prototype.hasOwnProperty.call(e,r)};(()=>{"use strict";const r=flarum.core.compat["forum/app"];e.n(r)().initializers.add("gerardwalace/flarum-react-zoom-pan-pitch",(function(){console.log("[gerardwalace/flarum-react-zoom-pan-pitch] Hello, forum!")}))})(),module.exports={}})();
+//# sourceMappingURL=forum.js.map
